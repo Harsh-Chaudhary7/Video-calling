@@ -1,6 +1,8 @@
 # App Link:- 
    https://lets-meet-now.netlify.app/
 
+# Preview:- 
+ ![Preview](Preview.png)
 
 # Getting Started with Create React App
 
