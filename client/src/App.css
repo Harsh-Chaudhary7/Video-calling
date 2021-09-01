@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://imgix.bustle.com/uploads/shutterstock/2020/3/25/72415f8c-3e06-40fc-b5a6-32fd76c7b567-shutterstock-1270572721.jpg?w=1200&fit=crop&crop=faces&auto=format%2Ccompress);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
